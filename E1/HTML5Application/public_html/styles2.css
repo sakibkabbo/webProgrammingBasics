@@ -1,0 +1,43 @@
+/*Sept 19 styles*/
+
+body {
+	margin: 0;
+	/*height: 100%*/
+	/*background-color: yellow;*/
+}
+
+#box1 {
+	background-color: salmon;
+	width: 30%;
+	float: left;
+	height: 100vh;
+}
+
+#box2 {
+	background-color: MediumAquamarine;
+	/*width: 70%;*/
+	/*float: left;*/
+}
+
+#box3 {
+	background-color: Indigo;
+	color: white;
+
+	
+}
+
+.position {
+	position: relative;
+	top: 5px;
+	left: 5px;
+}
+
+.absolute {
+	position: absolute;
+	bottom: 0px;
+	right: 5px;
+	background-color: red;
+}
+
+
+

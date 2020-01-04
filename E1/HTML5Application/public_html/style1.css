@@ -1,0 +1,17 @@
+/* Style for our course page */
+
+h1 {
+	color: blue;
+}
+
+h2 {
+	color: red;
+}
+
+p.highlight {
+	background-color: yellow;
+}
+
+.highlight {
+	background-color: yellow;
+}
